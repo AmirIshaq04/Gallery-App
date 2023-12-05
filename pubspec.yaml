@@ -38,6 +38,9 @@ dependencies:
   photo_manager: ^2.8.1
   flutter_screenutil: ^5.9.0
   provider: ^6.1.1
+  permission_handler: ^11.0.1
+  image_picker: ^1.0.4
+  nb_utils: ^6.0.7
 
 dev_dependencies:
   flutter_test:
